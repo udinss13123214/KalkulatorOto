@@ -3,6 +3,7 @@
 Cara kerja :
 ketika file kalukalorotoql.exe dieksekusi maka akan ada 2 kotak yang akan muncul. 1 kotak akan sebagai menu dan 1 persegi panjang hitam transparan, Taruh persegi panjang transparan itu disoal
 kemudian klick play untuk looping ( mendeteksi otomatis ) anda bisa klick tombol "cek" untuk mengecek tessaract-OCR nya dapat bekerja atau tidak.
+
 Solusi ketika eror :
 apabila anda klick cek tidak memperlihatkan bilangan ada 2 kemungkinan eror 
 1.soal terlalu kecil 
